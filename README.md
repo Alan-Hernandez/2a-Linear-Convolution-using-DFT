@@ -114,5 +114,6 @@ title('circular convolution');
 <img width="1600" height="1372" alt="image" src="https://github.com/user-attachments/assets/53e1d756-9790-4f28-8557-9603c8b8c1fe" />
 
 
-RESULT:
+# RESULT:
+
 Thus, the linear convolution of the two given sequences were performed and its result was verified.
